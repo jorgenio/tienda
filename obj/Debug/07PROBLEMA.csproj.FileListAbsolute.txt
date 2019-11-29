@@ -1,0 +1,26 @@
+D:\Elmer Martinez\EMD2019\07PROBLEMA\bin\Debug\07PROBLEMA.exe.config
+D:\Elmer Martinez\EMD2019\07PROBLEMA\bin\Debug\07PROBLEMA.exe
+D:\Elmer Martinez\EMD2019\07PROBLEMA\bin\Debug\07PROBLEMA.pdb
+D:\Elmer Martinez\EMD2019\07PROBLEMA\obj\Debug\07PROBLEMA.csprojResolveAssemblyReference.cache
+D:\Elmer Martinez\EMD2019\07PROBLEMA\obj\Debug\_07PROBLEMA.Form1.resources
+D:\Elmer Martinez\EMD2019\07PROBLEMA\obj\Debug\_07PROBLEMA.Properties.Resources.resources
+D:\Elmer Martinez\EMD2019\07PROBLEMA\obj\Debug\07PROBLEMA.csproj.GenerateResource.Cache
+D:\Elmer Martinez\EMD2019\07PROBLEMA\obj\Debug\07PROBLEMA.exe
+D:\Elmer Martinez\EMD2019\07PROBLEMA\obj\Debug\07PROBLEMA.pdb
+D:\Elmer Martinez\EMD2019\07PROBLEMA\obj\Debug\_07PROBLEMA.FrmPrincipal.resources
+D:\Elmer Martinez\EMD2019\07PROBLEMA\obj\Debug\_07PROBLEMA.FrmVenta.resources
+D:\Elmer Martinez\EMD2019\07PROBLEMA\obj\Debug\_07PROBLEMA.FrmProductos2.resources
+C:\Users\jorgenio\Desktop\PROGRAMAAAA\07PROBLEMA\obj\Debug\07PROBLEMA.csprojAssemblyReference.cache
+C:\Users\jorgenio\Desktop\PROGRAMAAAA\07PROBLEMA\obj\Debug\_07PROBLEMA.Form1.resources
+C:\Users\jorgenio\Desktop\PROGRAMAAAA\07PROBLEMA\obj\Debug\_07PROBLEMA.FrmPrincipal.resources
+C:\Users\jorgenio\Desktop\PROGRAMAAAA\07PROBLEMA\obj\Debug\_07PROBLEMA.FrmProductos2.resources
+C:\Users\jorgenio\Desktop\PROGRAMAAAA\07PROBLEMA\obj\Debug\_07PROBLEMA.FrmVenta.resources
+C:\Users\jorgenio\Desktop\PROGRAMAAAA\07PROBLEMA\obj\Debug\_07PROBLEMA.Properties.Resources.resources
+C:\Users\jorgenio\Desktop\PROGRAMAAAA\07PROBLEMA\obj\Debug\07PROBLEMA.csproj.GenerateResource.cache
+C:\Users\jorgenio\Desktop\PROGRAMAAAA\07PROBLEMA\obj\Debug\07PROBLEMA.exe
+C:\Users\jorgenio\Desktop\PROGRAMAAAA\07PROBLEMA\obj\Debug\07PROBLEMA.pdb
+C:\Users\jorgenio\Desktop\PROGRAMAAAA\07PROBLEMA\bin\Debug\07PROBLEMA.exe.config
+C:\Users\jorgenio\Desktop\PROGRAMAAAA\07PROBLEMA\bin\Debug\07PROBLEMA.exe
+C:\Users\jorgenio\Desktop\PROGRAMAAAA\07PROBLEMA\bin\Debug\07PROBLEMA.pdb
+C:\Users\jorgenio\Desktop\PROGRAMAAAA\07PROBLEMA\obj\Debug\_07PROBLEMA.FormVerventas.resources
+C:\Users\jorgenio\Desktop\PROGRAMAAAA\07PROBLEMA\obj\Debug\_07PROBLEMA.FormVerDetalle.resources
